@@ -21,6 +21,10 @@
 
 ### Está é uma aplicação Web de um E-commerce simples.
 
+#### GIF ilustrativa da aplicação:
+
+![Gif applicação ](./readme-media/dd.png)
+
 # [Figma da aplicação ](https://www.figma.com/file/gtCI6IalXezpnlsnUAFEAx/efood-(Copy)?type=design&node-id=9-2206&mode=design&t=c5q3N1617dhrdnPF-0)
 
 # [Veja a aplicação  na vercel](https://efood-zeta.vercel.app/)
